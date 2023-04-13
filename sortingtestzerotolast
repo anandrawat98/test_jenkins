@@ -26,7 +26,11 @@ public class ZerolastprintUsingSorting {
 				System.out.println(""+a[i]);
 			}
 			
+		else
+		{
+		System.out.println("Hello");
 		}
+
 
 	}
 
